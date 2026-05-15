@@ -1,0 +1,1 @@
+#ifndef __LIGHT_SENSOR
